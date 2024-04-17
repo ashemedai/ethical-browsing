@@ -15,5 +15,5 @@ collective time.
 
 | Search engine | Install link |
 |:---:|:---:|
-|DuckDuckGo|[![add in uBO](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=cb613b&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fashemedai%2Fethical-browsing%2Fmain%2Fduckduckgo%2Fvalnet.txt)|
+|DuckDuckGo|[![add in uBO](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=cb613b&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fashemedai%2Fethical-browsing%2Fmain%2Fduckduckgo%2Fvalnet.txt&title=ethical-browsing-valnet-filter%20-%20DuckDuckGo%20-%20valnet)|
 |Google| |
