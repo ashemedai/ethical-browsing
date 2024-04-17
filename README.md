@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Ethical Browsing is a repository hosting some uBlock Origin filters I created
-to filter out results in my used search engines that I consider unethical.
+Ethical Browsing hosts some uBlock Origin filters I created to filter out
+search engine results that I consider unethical.
 
 Under unethical I consider sites that abuse SEO (Search Engine Optimization)
 in order to get their sites higher in search engine results to drive traffic.
