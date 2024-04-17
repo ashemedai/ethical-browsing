@@ -1,0 +1,96 @@
+! Title: ethical-browsing-valnet-filter - DuckDuckGo - valnet
+! Expires: 7 days
+! Description: |
+!   Filters to block SEO-abusing, writer-exploitation sites from Valnet
+!   from search engines.
+! License: https://github.com/ashemedai/ethical-browsing/blob/main/LICENSE
+! Homepage: https://github.com/ashemedai/ethical-browsing
+!
+! GitHub issues: https://github.com/ashemedai/ethical-browsing/issues
+
+# Automotive
+||carbuzz.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="carbuzz.com"])
+
+||hotcars.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="hotcars.com"])
+
+||topspeed.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="topspeed.com"])
+
+! Consumer tech
+||androidpolice.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="androidpolice.com"])
+
+||pocket-lint.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="pocket-lint.com"])
+
+||pocketnow.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="pocketnow.com"])
+
+||xda-developers.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="xda-developers.com"])
+
+! Entertainment and lifestyle
+||backyardboss.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="backyardboss.com"])
+
+||therichest.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="therichest.com"])
+
+||thethings.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="thethings.com"])
+
+! Game
+||dualshockers.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="dualshockers.com"])
+
+||gamerant.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="gamerant.com"])
+
+||hardcoregamer.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="hardcoregamer.com"])
+
+||thegamer.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="thegamer.com"])
+
+! General tech
+||howtogeek.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="howtogeek.com"])
+
+||makeuseof.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="makeuseof.com"])
+
+! Screen
+||cbr.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="cbr.com"])
+
+||collider.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="collider.com"])
+
+||movieweb.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="movieweb.com"])
+
+||screenrant.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="screenrant.com"])
+
+! Sports
+||footballfancast.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="footballfancast.com"])
+
+||footballleagueworld.co.uk^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="footballleagueworld.co.uk"])
+
+||givemesport.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="givemesport.com"])
+
+||thesportster.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="thesportster.com"])
+
+# Simple Flying
+||simpleflying.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="simpleflying.com"])
+
+||thetravel.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="thetravel.com"])
+
