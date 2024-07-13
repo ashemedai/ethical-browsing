@@ -8,7 +8,7 @@
 !
 ! GitHub issues: https://github.com/ashemedai/ethical-browsing/issues
 
-# Automotive
+! Automotive
 ||carbuzz.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="carbuzz.com"])
 
@@ -94,7 +94,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="givemesport.com"])
 ||thesportster.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="thesportster.com"])
 
-# Travel
+! Travel
 ||simpleflying.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="simpleflying.com"])
 
