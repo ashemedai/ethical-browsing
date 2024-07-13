@@ -38,10 +38,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="backyardboss.com"])
 ||therichest.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="therichest.com"])
 
-||thethings.com^$all
-duckduckgo.com##.react-results--main > li:has(a[href*="thethings.com"])
-
-! Game
+! Gaming
 ||dualshockers.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="dualshockers.com"])
 
@@ -61,6 +58,13 @@ duckduckgo.com##.react-results--main > li:has(a[href*="howtogeek.com"])
 ||makeuseof.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="makeuseof.com"])
 
+! Parenthood
+||babygaga.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="babygaga.com"])
+
+||moms.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="moms.com"])
+
 ! Screen
 ||cbr.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="cbr.com"])
@@ -73,6 +77,9 @@ duckduckgo.com##.react-results--main > li:has(a[href*="movieweb.com"])
 
 ||screenrant.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="screenrant.com"])
+
+||thethings.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="thethings.com"])
 
 ! Sports
 ||footballfancast.com^$all
@@ -87,7 +94,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="givemesport.com"])
 ||thesportster.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="thesportster.com"])
 
-# Simple Flying
+# Travel
 ||simpleflying.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="simpleflying.com"])
 
